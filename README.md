@@ -1,1 +1,1 @@
-# -mage-Finder-App
+# -Image-Finder-App
